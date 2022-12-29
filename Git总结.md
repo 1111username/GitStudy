@@ -91,7 +91,7 @@
 4. 选择远程库分类 `public` 还是 `private`
 5. 点击 `Create repository` 创建远程库
 
-### 2.2 创建远程库别名
+### 2.2 创建远程库别名，关联
 
 - 使用 `git remote -v` 查看现有的别名
 - 使用 `git remote add <名称> <远程库链接>` 创建别名
